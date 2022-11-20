@@ -8,7 +8,7 @@
                 <div class="flex flex-col items-start justify-center h-full py-16 pl-16 pr-16 space-y-4 bg-white lg:pr-20 lg:py-0">
                     <h3 class="text-2xl font-semibold sm:text-4xl">Nossos Serviços</h3>
                     <p class="text-lg text-gray-600">
-                        Assessoramos os nossos clientes de forma completa, desde a escolha do imóvel e aprovação do financiamento bancário e registro de imóveis. Cotação as melhores taxas de juros do mercado e apresentamos ao nosso cliente com transparência e segurança. Para facilitar a negociação fazemos a aprovação antecipada do crédito para que o cliente possa fechar a negociação na imobiliária já com sua garantia de aprovação. Contamos com imobiliárias parceiras que possuem um catálogo amplo e variado de imóveis em diversas regiões. Assim prestando um serviço de excelência aos nossos clientes.
+                        Assessoramos os nossos clientes de forma completa, desde a escolha do imóvel e aprovação do financiamento bancário e registro de imóveis. Cotação das melhores taxas de juros do mercado e apresentamos ao nosso cliente com transparência e segurança. Para facilitar a negociação fazemos a aprovação antecipada do crédito para que o cliente possa fechar a negociação na imobiliária já com sua garantia de aprovação. Contamos com imobiliárias parceiras que possuem um catálogo amplo e variado de imóveis em diversas regiões. Assim prestando um serviço de excelência aos nossos clientes.
                     </p>
                 </div>
                 <div class="overflow-hidden bg-gray-100 h-96">
@@ -24,7 +24,7 @@
                     <h3 class="text-2xl font-semibold sm:text-4xl">Quem somos
                     </h3>
                     <p class="text-lg text-left text-gray-600">
-                        Somos Correspondente Bancário, prestamos assessoria especializada em financiamentos, e preparação documental para processos de compra e venda de imóveis. Contamos com uma rede parceira de imobiliárias que nos auxiliam na escolha do imóvel que nosso cliente procura. Desenvolvemos atendimento personalizado em nossos processos que facilitam e viabilizam os negócios de nossos clientes e parceiros. Nossos clientes contam com atendimento exclusivo desde seu primeiro contato até a finalização do seu processo.
+                        Somos Correspondente Bancário e Despachante Imobiliário, prestamos assessoria especializada em financiamentos, e preparação documental para processos de compra e venda de imóveis e registro. Contamos com uma rede parceira de imobiliárias que nos auxiliam na escolha do imóvel que nosso cliente procura. Desenvolvemos atendimento personalizado em nossos processos que facilitam e viabilizam os negócios de nossos clientes e parceiros. Nossos clientes contam com atendimento exclusivo desde seu primeiro contato até a finalização do seu processo.
                     </p>
                 </div>
             </div>
